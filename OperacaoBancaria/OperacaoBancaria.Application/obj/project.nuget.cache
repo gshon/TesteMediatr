@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCNZ99bNZJY/M8A1q5lT5wVfQ8KMX4PZfsG1Y8RScFYg1RG84U3ig/MGjQ1OKjkQGLWJQSEK/dWlopAH99YvGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\OperacaoBancaria\\OperacaoBancaria.Application\\OperacaoBancaria.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.0.1\\fluentvalidation.aspnetcore.9.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.0.1\\fluentvalidation.dependencyinjectionextensions.9.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mediatr\\4.1.0\\mediatr.4.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
